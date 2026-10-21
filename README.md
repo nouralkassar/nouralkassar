@@ -43,4 +43,4 @@ My personal website showcasing my background, technical skills, and development 
 
 [LinkedIn](https://www.linkedin.com/in/nour-alkassar) · [GitHub](https://github.com/nouralkassar)
 
-**Open to remote Frontend Developer and React Developer opportunities.**
+**Open to Frontend Developer and React Developer opportunities, including on-site, hybrid, and remote roles.**
